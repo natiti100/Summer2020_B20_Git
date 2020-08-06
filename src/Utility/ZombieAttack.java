@@ -56,6 +56,9 @@ public class ZombieAttack {
 
         System.out.println("---- EXTINCT ----");
 
+
+        // practice
+
     }
 
 }
